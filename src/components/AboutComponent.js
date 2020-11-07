@@ -8,14 +8,6 @@ import { Fade, Stagger } from 'react-animation-components';
 
 function About(props) {
 
-    /*const partners = props.partners.map(partner => {
-        return (
-            <Media tag="li" key={partner.id}>
-                <RenderPartner partner={partner}/>
-            </Media>
-        );
-    });*/
-
     return (
         <div className="container">
             <div className="row">
